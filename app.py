@@ -65,7 +65,7 @@ id3.fit(X_train_main, y_train_main)
 id3_PCA,pca_best_id3,num_pca_id3 = PCA_method('id3')
 # FORM
 form = tk.Tk()
-form.title("TƯ DUY SỐ 2024 - Dự đoán khả năng bị bệnh tim của bệnh nhân")
+form.title("Dự đoán khả năng bị bệnh tim của bệnh nhân")
 form.geometry("1700x900")
 
 
